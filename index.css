@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color:  #0b1022;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+/*.home-container{
+    display: flex;
+    flex-direction: column;
+}*/
+.home{
+    position: absolute;
+    width: 149px;
+    height: 36px;
+    left: 340px;
+    top: 68px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    /* identical to box height, or 90% */
+    text-align: center;
+    color: #EEEEEE;
+}
+
+.guest{
+    position: absolute;
+    width: 149px;
+    height: 36px;
+    left: 340px;
+    top: 68px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    /* identical to box height, or 90% */
+
+    text-align: center;
+    color: #EEEEEE;
+
+}
