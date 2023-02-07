@@ -9,10 +9,7 @@ body {
     flex-direction: column;
 }
 
-/*.home-container{
-    display: flex;
-    flex-direction: column;
-}*/
+
 .home{
     position: absolute;
     width: 149px;
